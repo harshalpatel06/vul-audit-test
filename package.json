@@ -95,7 +95,8 @@
     "redux-raven-middleware": "^1.2.0",
     "sass-loader": "^6.0.6",
     "underscore": "1.8.3",
-    "whatwg-fetch": "^1.0.0"
+    "whatwg-fetch": "^1.0.0",
+    "snyk": "^1.88.1"
   },
   "devDependencies": {
     "chai": "3.5.0",
@@ -210,5 +211,10 @@
     "stylus-loader": "^3.0.1",
     "webpack-dev-server": "^2.5.0",
     "yargs": "^8.0.2"
-  }
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "snyk": true
 }
