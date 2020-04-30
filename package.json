@@ -54,7 +54,7 @@
     "util": "0.10.3",
     "axios": "^0.16.2",
     "classnames": "^2.2.5",
-    "jquery": "1.11.1",
+    "jquery": "3.5.0",
     "lodash-es": "4.17.4",
     "object-assign": "^4.1.1",
     "prop-types": "^15.5.10",
