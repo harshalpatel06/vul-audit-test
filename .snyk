@@ -1,0 +1,40 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - lodash:
+        patched: '2020-05-01T00:49:17.720Z'
+    - async > lodash:
+        patched: '2020-05-01T00:49:17.720Z'
+    - email-templates > lodash:
+        patched: '2020-05-01T00:49:17.720Z'
+    - gridstack > lodash:
+        patched: '2020-05-01T00:49:17.720Z'
+    - node-cache > lodash:
+        patched: '2020-05-01T00:49:17.720Z'
+    - redux > lodash:
+        patched: '2020-05-01T00:49:17.720Z'
+    - react-dnd > lodash:
+        patched: '2020-05-01T00:49:17.720Z'
+    - react-dnd-html5-backend > lodash:
+        patched: '2020-05-01T00:49:17.720Z'
+    - react-redux > lodash:
+        patched: '2020-05-01T00:49:17.720Z'
+    - sass-loader > async > lodash:
+        patched: '2020-05-01T00:49:17.720Z'
+    - mongoose > async > lodash:
+        patched: '2020-05-01T00:49:17.720Z'
+    - node-sass > sass-graph > lodash:
+        patched: '2020-05-01T00:49:17.720Z'
+    - react-dnd > dnd-core > lodash:
+        patched: '2020-05-01T00:49:17.720Z'
+    - request-promise > request-promise-core > lodash:
+        patched: '2020-05-01T00:49:17.720Z'
+    - email-templates > juice > cheerio > lodash:
+        patched: '2020-05-01T00:49:17.720Z'
+    - node-sass > gaze > globule > lodash:
+        patched: '2020-05-01T00:49:17.720Z'
+    - react-dnd > dnd-core > redux > lodash:
+        patched: '2020-05-01T00:49:17.720Z'
