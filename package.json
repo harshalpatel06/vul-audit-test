@@ -52,7 +52,7 @@
     "mkdirp": "0.5.1",
     "nodemailer": "0.6.1",
     "util": "0.10.3",
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "classnames": "^2.2.5",
     "jquery": "1.11.1",
     "lodash-es": "4.17.4",
