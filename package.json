@@ -81,7 +81,7 @@
     "html-to-react": "^1.2.11",
     "immutable": "^3.8.1",
     "ngreact": "^0.4.1",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.9.0",
     "raven-js": "^3.16.0",
     "react-bootstrap": "^0.31.0",
     "react-date-picker": "^5.3.28",
