@@ -50,7 +50,7 @@
     "jsonwebtoken": "7.4.1",
     "mailparser": "0.4.1",
     "mkdirp": "0.5.1",
-    "nodemailer": "0.6.1",
+    "nodemailer": "1.0.0",
     "util": "0.10.3",
     "axios": "^0.16.2",
     "classnames": "^2.2.5",
