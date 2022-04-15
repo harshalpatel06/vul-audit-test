@@ -19,7 +19,7 @@
     "express": "4.15.3",
     "express-domain-middleware": "0.1.0",
     "express-handlebars": "^3.0.0",
-    "forever": "0.15.3",
+    "forever": "4.0.0",
     "handlebars": "4.0.8",
     "lodash": "^4.17.2",
     "method-override": "^2.3.8",
