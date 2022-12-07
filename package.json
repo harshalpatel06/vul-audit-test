@@ -16,7 +16,7 @@
     "east": "0.5.4",
     "east-mongo": "0.3.2",
     "es6-promise": "^4.0.5",
-    "express": "4.15.3",
+    "express": "4.17.3",
     "express-domain-middleware": "0.1.0",
     "express-handlebars": "^3.0.0",
     "forever": "0.15.3",
