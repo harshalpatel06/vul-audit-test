@@ -60,7 +60,7 @@
     "prop-types": "^15.5.10",
     "query-string": "^4.3.4",
     "re-reselect": "^1.0.1",
-    "react-list": "0.8.6",
+    "react-list": "0.8.18",
     "react-modal": "^2.2.2",
     "react-slick": "0.14.11",
     "redux-logger": "^3.0.6",
