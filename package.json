@@ -75,7 +75,7 @@
     "angular-resource": "1.4.3",
     "angular-route": "1.4.3",
     "angular-sanitize": "1.4.3",
-    "angular-ui-router": "0.3.2",
+    "angular-ui-router": "1.0.4",
     "draft-js": "^0.10.1",
     "gridstack": "^0.3.0",
     "html-to-react": "^1.2.11",
